@@ -188,7 +188,7 @@ const conferencePapers: CVPublication[] = [
     id: 'C.13',
     year: '2026',
     venue:
-      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)',
+      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings 2026)',
     title:
       "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
     authors:

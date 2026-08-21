@@ -56,7 +56,7 @@ const publicationsData = [
       'Bingsheng Yao',
     ],
     venue:
-      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)',
+      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP Findings 2026)',
     image: 'emnlp2026findings.png',
     paperLink: 'https://arxiv.org/abs/2606.06388',
     pdfLink: 'https://arxiv.org/pdf/2606.06388',

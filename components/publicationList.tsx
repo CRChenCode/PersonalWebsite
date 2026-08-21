@@ -20,7 +20,7 @@ interface PublicationListProps {
 function getVenueBadge(venue: string) {
   const patterns = [
     'ACM Transactions on AI Security and Privacy',
-    'EMNLP 2026 Findings',
+    'EMNLP Findings 2026',
     'EMNLP 2026',
     'COLM 2026',
     'ASE 2026',
