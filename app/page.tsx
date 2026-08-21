@@ -20,6 +20,49 @@ const publicationsData = [
   },
   {
     title:
+      'How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions',
+    authors: [
+      'Ningzhi Tang',
+      'Chaoran Chen',
+      'Gelei Xu',
+      'Yiyu Shi',
+      'Yu Huang',
+      'Collin McMillan',
+      'Tao Dong',
+      'Toby Jia-Jun Li',
+    ],
+    venue:
+      'Accepted to the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)',
+    image: 'emnlp2026.png',
+    paperLink: 'https://arxiv.org/abs/2605.29442',
+    pdfLink: 'https://arxiv.org/pdf/2605.29442',
+  },
+  {
+    title:
+      "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
+    authors: [
+      'Jiaju Chen',
+      'Yuxuan Lu',
+      'Jiayi Su',
+      'Chaoran Chen',
+      'Songlin Xiao',
+      'Zheng Zhang',
+      'Yun Wang',
+      'Yunyao Li',
+      'Jian Zhao',
+      'Tongshuang Wu',
+      'Toby Jia-Jun Li',
+      'Dakuo Wang',
+      'Bingsheng Yao',
+    ],
+    venue:
+      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)',
+    image: 'emnlp2026findings.png',
+    paperLink: 'https://arxiv.org/abs/2606.06388',
+    pdfLink: 'https://arxiv.org/pdf/2606.06388',
+  },
+  {
+    title:
       'Programming by Chat: A Large-Scale Behavioral Analysis of 11,579 Real-World AI-Assisted IDE Sessions',
     authors: [
       'Ningzhi Tang*',

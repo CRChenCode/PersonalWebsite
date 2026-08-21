@@ -141,32 +141,12 @@ type CVPublication = {
 const preprints: CVPublication[] = [
   {
     year: '2026',
-    id: 'P.4',
+    id: 'P.2',
     venue: 'arXiv preprint arXiv:2604.04918',
     title: 'Comparing Human Oversight Strategies for Computer-Use Agents',
     authors:
       'Chaoran Chen, Zhiping Zhang, Zeya Chen, Eryue Xu, Yinuo Yang, Ibrahim Khalilov, Simret A Gebreegziabher, Yanfang Ye, Ziang Xiao, Yaxing Yao, Tianshi Li, and Toby Jia-Jun Li',
     link: 'https://arxiv.org/abs/2604.04918',
-  },
-  {
-    year: '2026',
-    id: 'P.3',
-    venue: 'arXiv preprint arXiv:2605.29442',
-    title:
-      'How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions',
-    authors:
-      'Ningzhi Tang, Chaoran Chen, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Tao Dong, and Toby Jia-Jun Li',
-    link: 'https://arxiv.org/abs/2605.29442',
-  },
-  {
-    year: '2026',
-    id: 'P.2',
-    venue: 'arXiv preprint arXiv:2606.06388',
-    title:
-      "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
-    authors:
-      'Jiaju Chen, Yuxuan Lu, Jiayi Su, Chaoran Chen, Songlin Xiao, Zheng Zhang, Yun Wang, Yunyao Li, Jian Zhao, Tongshuang Wu, Toby Jia-Jun Li, Dakuo Wang, and Bingsheng Yao',
-    link: 'https://arxiv.org/abs/2606.06388',
   },
   {
     year: '2026',
@@ -193,6 +173,28 @@ const journalPapers: CVPublication[] = [
 ]
 
 const conferencePapers: CVPublication[] = [
+  {
+    id: 'C.14',
+    year: '2026',
+    venue:
+      'Accepted to the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)',
+    title:
+      'How Coding Agents Fail Their Users: A Large-Scale Analysis of Developer-Agent Misalignment in 20,574 Real-World Sessions',
+    authors:
+      'Ningzhi Tang, Chaoran Chen, Gelei Xu, Yiyu Shi, Yu Huang, Collin McMillan, Tao Dong, and Toby Jia-Jun Li',
+    link: 'https://arxiv.org/abs/2605.29442',
+  },
+  {
+    id: 'C.13',
+    year: '2026',
+    venue:
+      'Accepted to Findings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Findings)',
+    title:
+      "Humans' ALMANAC: A Human Collaboration Dataset of Action-Level Mental Model Annotations for Agent Collaboration",
+    authors:
+      'Jiaju Chen, Yuxuan Lu, Jiayi Su, Chaoran Chen, Songlin Xiao, Zheng Zhang, Yun Wang, Yunyao Li, Jian Zhao, Tongshuang Wu, Toby Jia-Jun Li, Dakuo Wang, and Bingsheng Yao',
+    link: 'https://arxiv.org/abs/2606.06388',
+  },
   {
     id: 'C.12',
     year: '2026',
