@@ -60,7 +60,7 @@ const education = [
 const appointments = [
   {
     period: '09/2026 -',
-    title: 'Incoming Postdoctoral Fellow',
+    title: 'Postdoctoral Fellow',
     organization: 'Johns Hopkins University, Baltimore, MD',
     detail: 'Whiting School of Engineering.',
     host: 'Advisor: Yaxing Yao',
